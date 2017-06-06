@@ -1,0 +1,4 @@
+Bundle 'myusuf3/numbers.vim'
+UnBundle 'nathanaelkane/vim-indent-guides'
+Bundle 'Yggdroot/indentLine'
+Bundle 'dikiaap/minimalist'

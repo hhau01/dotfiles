@@ -1,0 +1,11 @@
+"colorscheme peaksea
+
+nnoremap <F3> :NumbersToggle<CR>
+"nnoremap <F4> :NumbersOnOff<CR>
+
+colorscheme minimalist
+set t_Co=256
+syntax on
+
+set noshowmode
+set nospell
